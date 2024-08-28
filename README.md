@@ -32,6 +32,10 @@
 <img src="assets/steampank-theme.png"/>
 </details>
 <details>
+<summary>🌿 Mocha</summary>
+<img src="assets/mocha.webp"/>
+</details>
+
 
 ### [Stylus](https://github.com/openstyles/stylus) 🎨
 
