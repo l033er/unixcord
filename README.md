@@ -36,6 +36,12 @@
 <img src="assets/n0n3-theme.png"/>
 </details>
 
+## 💝 Thanks to
+
+- [noMukc](https://github.com/noMukc)
+
+&nbsp;
+
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 <p align="center">🌟 Все права защищены &copy; 2023-2024 <a href="https://github.com/l033er" target="_blank">Unixcord org</a></p>
 <p align="center"><a href="https://github.com/l033er/unixcord/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=Custom&colorA=363a4f&colorB=b7bdf8"/></a></p>
