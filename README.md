@@ -24,11 +24,11 @@
 ## Превью
 
 <details>
-<summary>🌻 Steampank</summary>
+<summary>🌻 Dracula</summary>
 <img src="assets/steampank-theme.png"/>
 </details>
 <details>
-<summary>🌿 Mocha</summary>
+<summary>🌿 Neon</summary>
 <img src="assets/mocha.webp"/>
 </details>
 
