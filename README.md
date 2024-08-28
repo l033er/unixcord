@@ -14,7 +14,7 @@
     <a href="https://github.com/l033er/unixcord/issues"><img src="https://img.shields.io/github/issues/l033er/unixcord?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
     <a href="https://github.com/l033er/unixcord/contributors"><img src="https://img.shields.io/github/contributors/l033er/unixcord?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
     <a href="https://github.com/l033er/unixcord/forks"><img src="https://img.shields.io/github/forks/l033er/unixcord?colorA=363a4f&colorB=f4dbd6&style=for-the-badge"></a>
-    <a href="https://github.com/l033er/unixcord/discussions"><img src="https://img.shields.io/github/discussions/l033er/unixcord?colorA=363a4f&colorB=c6a0f6&style=for-the-badge"></a>
+    <a href="https://discord.gg/JVSgcZjChp"><img src="https://img.shields.io/discord/your-discord-server-id?colorA=363a4f&colorB=7dc4e4&style=for-the-badge"></a>
 </p>
 
 &nbsp;
