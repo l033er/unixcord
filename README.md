@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://github.com/kaeeraa/AyuGramDesktop/raw/dev/.github/AyuChan.png" width="100" alt="Логотип"/><br/>
+	<img src="https://avatars.mds.yandex.net/i?id=6b3f8a6135e855bf2f26c30920fc36e6_l-7464698-images-thumbs&n=13" width="100" alt="Логотип"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 	Unixcord для <a href="https://discord.com/">Discord</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
