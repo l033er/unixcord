@@ -19,8 +19,8 @@
 </div>
 <div align="center">
 <br>
-  <a href="https://github.com/JaKooLit/Hyprland-Dots/wiki/FAQ"><kbd> <br> FAQ <br> </kbd></a>&ensp;&ensp;
-  <a href="https://discord.gg/9JEgZsfhex"><kbd> <br> Discord <br> </kbd></a>
+  <a href="https://github.com/JaKooLit/Hyprland-Dots/wiki/FAQ"><kbd> <br> 🪴 FAQ 🪴 <br> </kbd></a>&ensp;&ensp;
+  <a href="https://discord.gg/9JEgZsfhex"><kbd> <br> 🎨 Discord 🎨 <br> </kbd></a>
 </div><br>
 
 ![Превью темы Discord](assets/preview-unixcord.png)
@@ -35,6 +35,12 @@
 <summary>🪴 N0N3</summary>
 <img src="assets/n0n3-theme.png"/>
 </details>
+
+### [Stylus](https://github.com/openstyles/stylus) 🎨
+
+1. Включите исправление CSP из настроек Stylus > Дополнительно. 🛠️
+2. [Нажмите здесь для установки](https://github.com/catppuccin/discord/raw/main/discord.user.css). 📥
+3. Выберите предпочитаемый вкус и цвет акцента из выпадающего списка настроек Stylus. 🌈
 
 ## 🙋 Чаво или Часто задаваемые вопросы 
 
