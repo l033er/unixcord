@@ -33,7 +33,7 @@
 </details>
 
 
-### [Stylus](https://github.com/openstyles/stylus) 🎨
+## Stylus 🎨
 
 1. Включите исправление CSP из настроек Stylus > Дополнительно. 🛠️
 2. [Нажмите здесь для установки](https://github.com/catppuccin/discord/raw/main/discord.user.css). 📥
