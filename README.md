@@ -23,7 +23,7 @@
   <a href="https://discord.gg/9JEgZsfhex"><kbd> <br> 🎨 Discord 🎨 <br> </kbd></a>
 </div><br>
 
-![Превью темы Discord](assets/preview-unixcord.png)
+![Превью темы Discord](https://media.discordapp.net/attachments/1276446945489190957/1276657272231038987/image.png?ex=66d041fc&is=66cef07c&hm=b766a4f4a4e105113dad6745b143419c6af2cc6ae924cc478a32fc33a1484335&=&format=webp&quality=lossless&width=1156&height=654)
 
 ## Превью
 
@@ -32,9 +32,6 @@
 <img src="assets/steampank-theme.png"/>
 </details>
 <details>
-<summary>🪴 NSR-THEMES</summary>
-<img src="https://media.discordapp.net/attachments/1276446945489190957/1276657272231038987/image.png?ex=66d041fc&is=66cef07c&hm=b766a4f4a4e105113dad6745b143419c6af2cc6ae924cc478a32fc33a1484335&=&format=webp&quality=lossless&width=1156&height=654"/>
-</details>
 
 ### [Stylus](https://github.com/openstyles/stylus) 🎨
 
