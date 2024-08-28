@@ -50,7 +50,8 @@
   
 ## 💝 Thanks to
 
-- [noMukc](https://github.com/noMukc)
+> - [noMukc](https://github.com/noMukc)
+> - [@l033er](https://t.me/l033er)
 
 &nbsp;
 
