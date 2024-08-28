@@ -13,15 +13,59 @@
     <a href="https://github.com/l033er/unixcord/contributors"><img src="https://img.shields.io/github/contributors/l033er/unixcord?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-<div align="center">
-👇 Лучшии ссылки на unixcord ссылки👇
-<br/>
-</div>
-<div align="center">
-<br>
-  <a href="https://github.com/JaKooLit/Hyprland-Dots/wiki/FAQ"><kbd> <br> 🪴 FAQ 🪴 <br> </kbd></a>&ensp;&ensp;
-  <a href="https://discord.gg/9JEgZsfhex"><kbd> <br> 🎨 Discord 🎨 <br> </kbd></a>
-</div><br>
+<p align="center">
+  <a href="https://github.com/catppuccin">
+    <picture>
+      <source srcset="assets/social/macchiato_github.svg" width="64" height="64" alt="Github Logo" media="(prefers-color-scheme: dark)"/>
+      <source srcset="assets/social/latte_github.svg" width="64" height="64" alt="Github Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="assets/social/latte_github.svg" width="64" height="64" alt="Github Logo"/>
+    </picture>
+  </a>
+  <img src="assets/misc/transparent.png" height="1" width="5"/>
+  <a href="https://www.npmjs.com/org/catppuccin">
+    <picture>
+      <source srcset="assets/social/macchiato_npm.svg" width="64" height="64" alt="NPM Logo" media="(prefers-color-scheme: dark)"/>
+      <source srcset="assets/social/latte_npm.svg" width="64" height="64" alt="NPM Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="assets/social/latte_npm.svg" width="64" height="64" alt="NPM Logo"/>
+    </picture>
+  </a>
+  <img src="assets/misc/transparent.png" height="1" width="5"/>
+  <a href="https://discord.com/servers/907385605422448742">
+    <picture>
+      <source srcset="assets/social/macchiato_discord.svg" width="64" height="64" alt="Discord Logo" media="(prefers-color-scheme: dark)"/>
+      <source srcset="assets/social/latte_discord.svg" width="64" height="64" alt="Discord Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="assets/social/latte_discord.svg" width="64" height="64" alt="Discord Logo"/>
+    </picture>
+  </a>
+  <img src="assets/misc/transparent.png" height="1" width="5"/>
+  <a href="https://twitter.com/catppuccintheme">
+    <picture>
+      <source srcset="assets/social/macchiato_twitter.svg" width="64" height="64" alt="Twitter Logo" media="(prefers-color-scheme: dark)"/>
+      <source srcset="assets/social/latte_twitter.svg" width="64" height="64" alt="Twitter Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="assets/social/latte_twitter.svg" width="64" height="64" alt="Twitter Logo"/>
+    </picture>
+  </a>
+  <img src="assets/misc/transparent.png" height="1" width="5"/>
+  <a href="https://fosstodon.org/@catppuccin">
+    <picture>
+      <source srcset="assets/social/macchiato_mastodon.svg" width="64" height="64" alt="Mastodon Logo" media="(prefers-color-scheme: dark)"/>
+      <source srcset="assets/social/latte_mastodon.svg" width="64" height="64" alt="Mastodon Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="assets/social/latte_mastodon.svg" width="64" height="64" alt="Mastodon Logo"/>
+    </picture>
+  </a>
+  <img src="assets/misc/transparent.png" height="1" width="5"/>
+  <a href="https://reddit.com/r/catppuccin">
+    <picture>
+      <source srcset="assets/social/macchiato_reddit.svg" width="64" height="64" alt="Reddit Logo" media="(prefers-color-scheme: dark)"/>
+      <source srcset="assets/social/latte_reddit.svg" width="64" height="64" alt="Reddit Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="assets/social/latte_reddit.svg" width="64" height="64" alt="Reddit Logo"/>
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+Join our community!
+</p>
 
 ![Превью темы Discord](https://media.discordapp.net/attachments/1276446945489190957/1276657272231038987/image.png?ex=66d041fc&is=66cef07c&hm=b766a4f4a4e105113dad6745b143419c6af2cc6ae924cc478a32fc33a1484335&=&format=webp&quality=lossless&width=1156&height=654)
 
