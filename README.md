@@ -1,10 +1,12 @@
 
 
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
+	<img src="https://github.com/l033er/unixcord/blob/main/unixcord.png" width="100" alt="Логотип"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin
+	Unixcord для <a href="https://discord.com/">Discord</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+	<br/>
+	<span style="font-size: 16px; color: #7289DA;">Улучшенный опыт использования Discord с Unixcord</span>
 </h3>
 
 <p align="center">
