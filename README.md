@@ -39,5 +39,5 @@
 #### 🚧 Измена темы под свою 🚧 ### 
 #### 🔔 NOTICE TO NVIDIA OWNERS ### 
 - by default it is installing the latest and newest nvidia drivers. If you have an older nvidia-gpu (GTX 800 series and older), check out nvidia-fedora website [`LINK`](https://rpmfusion.org/Howto/NVIDIA#Installing_the_drivers) and edit nvidia.sh in install-scripts directory to install proper gpu driver
-> [!IMPORTANT]
-> If you want to use nouveau driver, choose N when asked if you have nvidia gpu. This is because the nvidia installer part, it will blacklist nouveau. Hyprland will still be installed but it will skip blacklisting nouveau.
+> [!WARNING] 
+> Если ты хочешь изменить тему Unixcord и сделать свою версию, ты можешь это сделать! Но помни, что нужно рассказать об этом разработчику. Напиши ему сообщение в [Комментариях](https://github.com/l033er/unixcord/issues). Так все будут знать о твоей новой идее!
