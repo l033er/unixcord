@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/catppuccin/discord/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/discord?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/l033er/unixcord/issues"><img src="https://img.shields.io/github/issues/catppuccin/discord?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/discord/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/discord?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+    <a href="https://github.com/l033er/unixcord/stargazers"><img src="https://img.shields.io/github/stars/l033er/unixcord?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+    <a href="https://github.com/l033er/unixcord/issues"><img src="https://img.shields.io/github/issues/l033er/unixcord?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+    <a href="https://github.com/l033er/unixcord/contributors"><img src="https://img.shields.io/github/contributors/l033er/unixcord?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 ![Превью темы Discord](assets/preview-unixcord.png)
