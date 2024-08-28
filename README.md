@@ -13,12 +13,6 @@
     <a href="https://github.com/l033er/unixcord/contributors"><img src="https://img.shields.io/github/contributors/l033er/unixcord?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/l033er/unixcord">Домашняя страница</a> •
-    <a href="https://github.com/l033er/unixcord/releases">Скачать</a> •
-    <a href="https://github.com/l033er/unixcord/wiki">Документация</a>
-</p>
-
 ![Превью темы Discord](assets/preview-unixcord.png)
 
 ## Превью
