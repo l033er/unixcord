@@ -80,25 +80,6 @@
 
 &nbsp;
 
-### Activity
-
-<a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=44688041" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=44688041&image_size=auto&color_scheme=dark" width="655" height="auto">
-    <img alt="Performance Stats of l033er/unixcord - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=44688041&image_size=auto&color_scheme=light" width="655" height="auto">
-  </picture>
-</a>
-
-### Changes
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month?repo_id=44688041" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=44688041&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Lines of Code Changes of l033er/unixcord" src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=44688041&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
-
-
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 <p align="center">🌟 Все права защищены &copy; 2023-2024 <a href="https://github.com/l033er" target="_blank">Unixcord org</a></p>
 <p align="center"><a href="https://github.com/l033er/unixcord/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=Custom&colorA=363a4f&colorB=b7bdf8"/></a></p>
